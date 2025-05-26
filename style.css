@@ -5,8 +5,8 @@
     --primary-color: #305036;
     --secondary-color: #a9e3ba;
     --text-color: #8ab083;
-    --background-color: #204A4F;
-    --button-hover: #012E40;
+    --background-color: #86b095;
+    --button-hover: #8dce9a;
     --font-body: "Chocolate Classical Sans", serif;
     --font-titulo: "Rakkas", serif;
 }
@@ -98,7 +98,7 @@ main {
 }
 
 .conteudo {
-    background-color: #f0f0f0;
+    background-color: #dbf8e1;
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 8px;
